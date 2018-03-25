@@ -1,0 +1,21 @@
+{
+  "name": "tokbox-replay",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@opentok/client": "^2.13.2",
+    "axios": "^0.18.0",
+    "opentok-react": "^0.7.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.1",
+    "redux": "^3.7.2",
+    "video-react": "^0.10.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
